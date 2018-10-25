@@ -1,0 +1,21 @@
+{
+  "name": "simpleblockchainjs",
+  "version": "1.0.0",
+  "description": "Exemplo Mínimo de uma BlockChain em JS",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BlockChain",
+    "JS",
+    "Crypto"
+  ],
+  "author": "Rafael Vasco/SavjeeCoin",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.4.1"
+  }
+}
